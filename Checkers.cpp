@@ -1,5 +1,4 @@
 // Junaid Saleem
-// Reg No: 2022243
 
 #include <iostream>
 using namespace std;
