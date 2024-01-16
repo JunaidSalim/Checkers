@@ -1,5 +1,3 @@
-// Junaid Saleem
-
 #include <iostream>
 using namespace std;
 int pieces_of_red = 12;
