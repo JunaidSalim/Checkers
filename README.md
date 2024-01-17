@@ -1,6 +1,6 @@
 # Checkers
 
-Instructions for making this game is given in instructions.pdf
+Instructions for making Checkers game is given in instructions.pdf
 
 Introduction:
 This is a checkers game developed in C++ by Junaid Saleem. It is a classic board game where two players take turns moving their pieces on an 8x8 grid. The game follows the standard rules of checkers, implementing the necessary functionalities using classes.
